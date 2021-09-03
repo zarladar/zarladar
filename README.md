@@ -1,3 +1,3 @@
--Hi, I’m @zarladar
--I’m interested in Water Resources modeling and management, scientific and engineering communication, and board games.
--I use GitHub to store my privat repositories, please let me know if you are interested in learning about what I do. 
+- Hi, I’m @zarladar
+- I’m interested in Water Resources modeling and management, scientific and engineering communication, and board games.
+- I use GitHub to store my privat repositories, please let me know if you are interested in learning about what I do. 
